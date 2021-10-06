@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Body Fit For Life</title>
+    <meta name="description" content="This website meant to show the new and improved XJS500 home gym,
+the machine that can give you the feeling of a gym from your own home.  Meliza Mulaj 10/6/21">
+  <link rel="stylesheet" href="resources/css/mystyle.css">
+  </head>
+  <body>
+
+    <h1>Body Fit For Life <img src="resources/body-fit-for-life-logo.jpg" alt="BodyFitForLife" width="150" height="150" ></h1>
+
+    
+	
+
+    <h2>Body Fit For Life XJS500 Home Gym</h2>
+	<p><img src="resources/XJS500.jpg" alt="XJS500" width="300" height="200" >The XJS500 is an upgrade to the previous XKS300 model, featuring a new resistence-band sytem
+	that users will find easy to use. Designed for both serious fitness buffs and beginners, the
+	XJS500 provides easy setup and storage with built-in holsters for extra bands and bars.
+	While still allowing for users to work out with light weights or their own body weight, 
+	the XJS500 is designed for all users at any stage of their fitness needs. The resistance 
+	bands range from 5 lb. to 25 lb.  Additional bands can be purchased as necessary.
+	The XJS500 is safe and easy to use and can be used alone or with a partner. The locking points
+	prevent the bar from moving outside the normal range of motion. Since there are no heavy plates,
+	you don't have to worry about dropping anything that could damage your floor. The resistance
+	bands are made of sturdy, hard rubber rated for the resistance marked on each side.</p>
+    
+    <p>The XJS500 can be configured to perform a number of different exercises. The detached bench
+	is adjustable for both incline and decline workouts, with detachable leg- and bicep-curl attachments.
+	The basic package includes resistence bands for workouts of up to 200 lb. Additional bands
+	can be purchased separately. All accessories are easy to install or store, allowing you to
+	change your workout routine as often as you like. The basic package comes with a straight bar,
+	tricep rope, bicep curl bar, ankle strap, and triangle bar. Additional accessories sold 
+	separately include: lat/row bar, curved bar, rams horns bar, and various tricep pull-down bars.</p>
+
+    <p>The XJS500 storage makes it easy to store all accessories and bands in one place for easy access.
+	This makes the XJS500 an excellent choice for people who want a quality home gym while avoiding 
+	paying for a professional gym membership.</p>
+
+
+    <h3>Features</h3>
+      <ul>
+        <li><B>Smooth resistance</B>: The bands are rated appropriately and provide proper tension.
+	    The gym itself is constructed with a strong, 12-gauge steel tubing and cables rated for weight
+	    well beyond the maximum resistance you can use. Smooth, easy motion allows
+	    for a successful workout as the targeted muscle groups are utilized to their full potential.</li>
+        <li><B>Proper angle</B>: The XJS500 is designed to mirror its free weight counterparts, offering
+	    a compatible workout.</li>
+        <li><B>Safety</B>: Adjustable pins help prevent injury and damage to the machine in the event
+	    you lose your grip on the bar.</li>
+        <li><B>Warranty</B>: Every part on the XJS500 has a lifetime guarantee if used properly.
+	    We'll replace or repair any faulty parts.</li>
+       </ul>
+
+     <h4>Dimensions:</h4>
+       <p>Width:  125"
+         Height:  82"
+	 &amp;
+         Depth: 72"</p>
+       
+
+      <h5>Optional Attachments:</h5>
+        <ul>
+	  <li>Additional resistence bands sold individually (Part: RJS432-2)</li>
+          <li>Additional resistence band package (Part: RJS378-3)</li>
+	  <li>Rams horns bar (Part: RJS638-5)</li>
+	  <li>Ankle strap (Part: RJS734-6)</li>
+	  <li>Lat/Row bar (Part: RJS368-7)</li>
+	  <li>Triangle tricep bar (Part: RJS326-2)</li>
+	  <li>Workout DVD (Part: RJS234-9)</li>
+	  <li>Workout posters (Part: RJS227-3)</li>
+         </ul>
+
+       <hr>
+
+      <address>
+       <i>Body Fit For Life<br>
+	   768 W. Deming Dr.<br>
+	   Deming, NM 88030<br>
+	   (800) BODYFIT<br>
+       </i>
+      </address>
+
+
+
+  </body>
+</html>
